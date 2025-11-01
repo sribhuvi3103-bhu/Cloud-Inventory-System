@@ -28,3 +28,7 @@ This project is a *Google Sheets–based cloud inventory management system* buil
 
 ## 📄 Summary
 This project demonstrates how cloud-based tools can automate business operations without any manual data entry, improving accuracy and accessibility.
+
+## Typeform Link  
+Here is the link to access the form:  
+[Click here to open the form](https://forms.gle/wxodnr8vB8WbTrT57)
