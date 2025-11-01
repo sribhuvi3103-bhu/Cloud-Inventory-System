@@ -1,6 +1,8 @@
-🌥️ Cloud Inventory System
+# Cloud Inventory System  
 
-This project is a Google Sheets–based cloud inventory management system built using Google Forms, Google Sheets, and Apps Script. It automates product entry, updates, and stock monitoring in real time.
+This project is a Google Sheets-based cloud inventory management system built using Google Forms, Sheets, and Apps Script.  
+It automates data entry and updates in real time.  
+Access form: https://form.typeform.com/to/lXgsWpIq
 
 🚀 Features
 
