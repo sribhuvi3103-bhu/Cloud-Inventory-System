@@ -1,29 +1,30 @@
-# Cloud Inventory System
+# 🧾 Cloud Inventory System
 
-A cloud-based inventory management system using Google Sheets to monitor stock levels, sales, and restocking efficiently.
+This project is a *Google Sheets–based cloud inventory management system* built using *Google Forms, Sheets, and Apps Script*. It automates product entry, updates, and stock monitoring in real time.
 
-## 📘 Project Overview
-This project simplifies inventory tracking by using Google Sheets as an online database. It helps businesses update and monitor stock automatically through formulas and reports.
+---
 
-## 🎯 Objectives
-- Track stock levels in real-time.  
-- Automate restock alerts when stock is low.  
-- Generate sales and purchase reports.  
-- Maintain all data securely in Google Sheets cloud.
+## 📋 Features
+- Automatic inventory entry through Google Form  
+- Real-time updates in Google Sheets  
+- Automatic low-stock alert system  
+- Cloud-based — accessible anywhere  
+- Simple dashboard view  
 
-## 🛠️ Tools Used
-- Google Sheets (for data management)  
-- Excel formulas (for automation)  
-- Charts (for reports and visualization)
+---
 
-## ⚙️ Process
-- Created data sheets for stock-in, stock-out, and current balance.  
-- Used formulas to auto-update remaining stock after each transaction.  
-- Designed reports to visualize stock movement and sales trends.  
-- Stored the sheet in Google Drive for easy team access.
+## 🚀 Live Project Link
+🔗 [Click here to open the Cloud Inventory Form](https://form.typeform.com/to/lXgsWpIq)
 
-## 📊 Screenshot
-![Screenshot](inventory_dashboard.jpg)
+---
 
-## 🧩 Outcome
-Learned how to create automated inventory systems using spreadsheets. Gained experience in cloud-based stock control and data visualization.
+## 🧠 Tools Used
+- Google Sheets  
+- Typeform (for data collection)  
+- Google Apps Script  
+- Cloud Storage  
+
+---
+
+## 📄 Summary
+This project demonstrates how cloud-based tools can automate business operations without any manual data entry, improving accuracy and accessibility.
